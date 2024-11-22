@@ -11,7 +11,7 @@ from ckan.common import OrderedDict
 import ckan.plugins as p
 
 from ckanext.report import lib
-from helpers import go_up_tree, group_get_users, organization_list
+from ckanext.toscana_reports.helpers import go_up_tree, group_get_users, organization_list
 
 log = logging.getLogger(__name__)
 
