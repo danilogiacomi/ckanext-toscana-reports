@@ -1,1 +1,2 @@
+MarkupSafe
 jinja2

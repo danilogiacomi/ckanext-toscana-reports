@@ -1,7 +1,7 @@
 import re
 
 from ast import literal_eval
-from jinja2.utils.markupsafe import Markup
+from markupsafe import Markup
 
 from ckan import model
 from ckan.logic import get_action
